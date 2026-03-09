@@ -1,5 +1,5 @@
-# 👋 Prazer, me chamo Diogo!
+# <span style="color: #FF6B6B">Prazer, me chamo Diogo!</span> 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![16 anos](https://img.shields.io/badge/Idade-16?style=for-the-badge&color=blue)
+- <span style="color: #4ECDC4">Iniciante na área de programação</span>
+- <span style="color: #45B7D1">Linguagem Python</span>
+- <span style="color: #96CEB4">Atualmente, 16 anos</span>
